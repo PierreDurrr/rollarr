@@ -2,6 +2,8 @@
 
 All credits goes to **TheHumanRobot**
 
+I WILL NOT MAINTAIN THIS REPOSITORY
+
 ## Docker version
 
 There you go : https://hub.docker.com/r/thehumanrobot/rollarr/

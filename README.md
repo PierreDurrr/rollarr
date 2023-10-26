@@ -27,7 +27,7 @@ First make sure you have Python installed version 3.7 and above. Next run:
 
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 That will install all the needed packages 
 
@@ -109,7 +109,7 @@ Ex: Monthly
 
 ```
 crontab -e
-0 0 * 1-12 * python /path/to/scripts/Plex_Trailers.py 2>&1
+0 0 * 1-12 * python3 /path/to/scripts/Plex_Trailers.py 2>&1
 ```
 
 **Windows:**

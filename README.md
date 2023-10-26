@@ -123,7 +123,7 @@ Search for task schedular and open it. Click "Create Basic Task" and enter a nam
 Since you just downloaded the script the first time you run it you will be prompted to fill in some information to create the config file unless you fill out the exampleconfig.yml file and then rename it to config.yml.
 
 ```
-python /path/to/scripts/Plex_Trailers.py
+python3 /path/to/scripts/Plex_Trailers.py
 ```
 
 I hope this is useful for some people and feel free to modify it for your own use!
